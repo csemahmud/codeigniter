@@ -1,0 +1,22 @@
+{
+  "name": "mahmud_ecommerce",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Mahmudul Hasan Khan"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-i18n": "^1.5.8",
+    "angular": "^1.5.7",
+    "bootstrap": "^3.3.6"
+  }
+}
